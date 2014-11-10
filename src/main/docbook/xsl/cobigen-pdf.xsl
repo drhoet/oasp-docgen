@@ -26,6 +26,6 @@
   <xsl:param name="body.margin.bottom" select="'1.6cm'"/>
 
   <xsl:template name="footer.content.title">
-    My new fancy title for this thingy.
+    This documentation is subject to the terms and conditions of the Capgemini CobiGen License Agreement.
   </xsl:template>
 </xsl:stylesheet>
